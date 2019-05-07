@@ -1,0 +1,26 @@
+-- thx@1138github
+
+https://github.com/rossattijuniordeveloper/Micro_Forum_WF.git
+
+$ git clone https://github.com/rossattijuniordeveloper/Micro_Forum_WF.git
+$ git config --global user.email "rossattijuniordeveloper@gmail
+$ git config --global user.name "rossattijuniordeveloper"
+$ git init
+$ git add nome do arquivo.extnsao
+$ git commit -m "alguma explicação"
+$ git remote add origin https://github.com/rossattijuniordeveloper/MicroForum_WF
+usuario: rossattijuniordeveloper senha:thx@1138github
+$ git push origin master
+
+
+
+
+
+
+
+echo "# Micro_Forum_WF" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rossattijuniordeveloper/Micro_Forum_WF.git
+git push -u origin master
